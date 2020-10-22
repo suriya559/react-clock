@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.Timer {
+  height: 30vh;
+  width: 30vh;
+  border-radius: 50%;
+  border: 5px solid grey;
+}
+.Time {
+  text-align: center;
+}
+
+.Watch {
+  font-size: 70px;
+  font-weight: 500;
+}
